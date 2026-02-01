@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.idea/
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# Node.js / Web
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
